@@ -1,8 +1,8 @@
-# macchanger
+# Description
 
-Change mac address, computer name, hostname or local hostname for macOS
+macchanger.sh is a Bash script to change mac address, computer name, hostname or local hostname for macOS
 
-# installation
+# Installation
 
 - open your terminal and cd to the directory where you want to install it then download it
 
@@ -12,7 +12,7 @@ Change mac address, computer name, hostname or local hostname for macOS
 
 - to reset to the permanent mac address just restart your computer
 
-# options
+# Options
 
 1/ Set a random temporary mac address
 
